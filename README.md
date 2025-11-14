@@ -10,4 +10,5 @@ A simple website showing our amazing team members.
 
 ## Team Members
 - Timothy Kijjambu
+- Henry Mason
 - (Add your names here)
